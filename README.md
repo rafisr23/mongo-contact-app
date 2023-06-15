@@ -18,10 +18,10 @@ To get started with the `mongo-contact-app`, please follow the instructions belo
 4. Set up the MongoDB connection:
 
 - Make sure you have MongoDB installed and running on your local machine or provide the connection details for a remote MongoDB server.
-- Update the MongoDB connection URL in the `config/database.js` file.
+- Update the MongoDB connection URL in the `utils/db.js` file.
 
 5. Start the application:
-`npm start`
+`nodemon app`
 
 
 The application will be running at `http://localhost:3000`.
