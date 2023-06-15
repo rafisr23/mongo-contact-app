@@ -52,7 +52,7 @@ The `mongo-contact-app` is open-source software released under the [MIT License]
 
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 
-- Name: [Rafi Satriawan](https://github.com/rafisr23)
-- Email: [rafisatriawan23@gmail.com](mailto:rafisatriawan23@gmail.com)
+- Name: [Abdur Rafi](https://github.com/rafisr23)
+- Email: [rafiridwan23@gmail.com](mailto:rafiridwan23@gmail.com)
 
 Thank you for using `mongo-contact-app`! We hope it helps you manage your contacts effectively.
