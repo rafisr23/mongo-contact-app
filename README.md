@@ -30,9 +30,9 @@ The application will be running at `http://localhost:3000`.
 
 Once the `mongo-contact-app` is up and running, you can perform the following actions:
 
-- **View Contacts**: Open your web browser and go to `http://localhost:3000/contacts` to view all the contacts stored in the database.
+- **View Contacts**: Open your web browser and go to `http://localhost:3000/contact` to view all the contacts stored in the database.
 
-- **Add a Contact**: Click on the "Add Contact" button on the homepage or go to `http://localhost:3000/contacts/add` to add a new contact.
+- **Add a Contact**: Click on the "Add Contact" button on the homepage or go to `http://localhost:3000/contact/add` to add a new contact.
 
 - **Edit a Contact**: On the contacts page, click on the "Edit" button next to a contact to modify its details.
 
@@ -46,7 +46,7 @@ When contributing to this project, please ensure that your code adheres to the e
 
 ## License
 
-The `mongo-contact-app` is open-source software released under the [MIT License](https://opensource.org/licenses/MIT). You can find more details in the [LICENSE](https://github.com/rafisr23/mongo-contact-app/blob/main/LICENSE) file.
+The `mongo-contact-app` is open-source software released under the [MIT License](https://opensource.org/licenses/MIT). 
 
 ## Contact
 
